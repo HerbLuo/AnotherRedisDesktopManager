@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/19686958/111029182-2e9be080-8436-11eb-9008-322213fc7e28.png)
 
 
-做如下修改可以构建出APPLE ARM版的应用，达到基本可用的程度
+在原仓库代码上做如下修改可以构建出APPLE ARM版的应用，达到基本可用的程度
 1. 删除package-lock.json
 2. 修改package.json
    ```
